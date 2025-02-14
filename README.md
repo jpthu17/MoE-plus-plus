@@ -34,6 +34,7 @@
 </p></details>
 
 ## 📣 News
+* **[2025/02/11]**: Our MoE++ has been selected as an **oral** paper at ICLR 2025! (Top 1.8% of submissions).
 * **[2024/10/08]**  Model weight and inference code are available now! Welcome to **watch** 👀 this repository for the latest updates.
 
 ## ⚡ Overview
